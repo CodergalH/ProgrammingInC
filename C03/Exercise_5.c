@@ -1,4 +1,12 @@
 // Original code is in README file
+// Identified errors
+
+//line 5 - int is written in blockcase
+//line 6 - incorrect commenting
+//line 7 - no semicolon at end of statement
+//line 8 - same as line 6
+//line 9 - no comma in printf
+
 
 /* corrected code */
 #include <stdio.h>

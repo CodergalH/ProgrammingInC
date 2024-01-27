@@ -11,4 +11,4 @@ It is recommended to read book to understand all the questions solved in this re
 [Chapter 3](/C03) - Compiling and Running Your First
 
 ## Authored By
-Hadarah .O
+[Hadarah .O](https://github.com/CodergalH)

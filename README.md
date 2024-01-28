@@ -9,6 +9,7 @@ It is recommended to read book to understand all the questions solved in this re
 
 ## Table of Content
 [Chapter 3](/C03) - Compiling and Running Your First
+[Chapter 4](/04) - Variables, Data Types, and Arithmetic Expressions
 
 ## Authored By
 [Hadarah .O](https://github.com/CodergalH)
